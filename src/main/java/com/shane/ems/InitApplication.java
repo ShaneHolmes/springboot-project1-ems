@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //@ImportResource(locations = {"classpath:beans.xml"})
 @SpringBootApplication
-public class EmsApplication {
+public class InitApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EmsApplication.class, args);
+        SpringApplication.run(InitApplication.class, args);
     }
 
 }

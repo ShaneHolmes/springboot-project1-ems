@@ -11,7 +11,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 @SpringBootTest
-class EmsApplicationTests {
+class InitApplicationTests {
 
     @Autowired
     ApplicationContext ioc;
