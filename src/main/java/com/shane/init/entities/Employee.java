@@ -1,4 +1,4 @@
-package com.shane.ems.entities;
+package com.shane.init.entities;
 
 import java.util.Date;
 

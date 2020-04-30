@@ -1,6 +1,6 @@
-package com.shane.ems.controller;
+package com.shane.init.controller;
 
-import com.shane.ems.exception.UserNotExistException;
+import com.shane.init.exception.UserNotExistException;
 import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;

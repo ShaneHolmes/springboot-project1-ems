@@ -1,4 +1,4 @@
-package com.shane.ems.service;
+package com.shane.init.service;
 
 /**
  * @author ShaneHolmes

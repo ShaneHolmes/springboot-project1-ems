@@ -1,4 +1,4 @@
-package com.shane.ems;
+package com.shane.init;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

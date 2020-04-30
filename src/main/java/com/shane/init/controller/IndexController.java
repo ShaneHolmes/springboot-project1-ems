@@ -1,9 +1,8 @@
-package com.shane.ems.controller;
+package com.shane.init.controller;
 
-import com.shane.ems.exception.UserNotExistException;
+import com.shane.init.exception.UserNotExistException;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 

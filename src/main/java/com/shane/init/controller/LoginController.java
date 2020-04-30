@@ -1,6 +1,5 @@
-package com.shane.ems.controller;
+package com.shane.init.controller;
 
-import org.springframework.boot.web.servlet.server.Session;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.PostMapping;

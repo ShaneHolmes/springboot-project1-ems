@@ -1,4 +1,4 @@
-package com.shane.ems;
+package com.shane.init;
 
 
 import org.junit.jupiter.api.Test;

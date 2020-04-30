@@ -1,4 +1,4 @@
-package com.shane.ems.component;
+package com.shane.init.component;
 
 import org.springframework.boot.web.servlet.error.DefaultErrorAttributes;
 import org.springframework.stereotype.Component;

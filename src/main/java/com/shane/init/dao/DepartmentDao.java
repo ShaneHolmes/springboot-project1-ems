@@ -1,11 +1,11 @@
-package com.shane.ems.dao;
+package com.shane.init.dao;
 
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
 
-import com.shane.ems.entities.Department;
+import com.shane.init.entities.Department;
 import org.springframework.stereotype.Repository;
 
 

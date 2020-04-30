@@ -1,4 +1,4 @@
-package com.shane.ems.exception;
+package com.shane.init.exception;
 
 /**
  * @author ShaneHolmes

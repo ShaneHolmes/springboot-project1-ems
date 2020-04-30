@@ -1,9 +1,9 @@
-package com.shane.ems.controller;
+package com.shane.init.controller;
 
-import com.shane.ems.dao.DepartmentDao;
-import com.shane.ems.dao.EmployeeDao;
-import com.shane.ems.entities.Department;
-import com.shane.ems.entities.Employee;
+import com.shane.init.dao.DepartmentDao;
+import com.shane.init.dao.EmployeeDao;
+import com.shane.init.entities.Department;
+import com.shane.init.entities.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,10 +1,9 @@
-package com.shane.ems.config;
+package com.shane.init.config;
 
 
-import com.shane.ems.component.MyLocaleResolver;
-import com.shane.ems.interceptor.LoginHandlerInterceptor;
+import com.shane.init.component.MyLocaleResolver;
+import com.shane.init.interceptor.LoginHandlerInterceptor;
 import org.springframework.boot.web.server.ConfigurableWebServerFactory;
-import org.springframework.boot.web.server.WebServerFactory;
 import org.springframework.boot.web.server.WebServerFactoryCustomizer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

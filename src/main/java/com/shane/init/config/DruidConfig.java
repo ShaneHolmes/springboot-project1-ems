@@ -1,4 +1,4 @@
-package com.shane.ems.config;
+package com.shane.init.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.support.http.StatViewServlet;
